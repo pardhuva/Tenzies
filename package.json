@@ -1,6 +1,5 @@
 {
   "name": "Scrim-s06isns",
-  "description": "https://scrimba.com/learn-react-c0e/~07bk",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -11,10 +10,10 @@
     "firebase": "^11.10.0",
     "react": "^18.2.0",
     "react-confetti": "^6.4.0",
-    "react-dom": "^18.2.0",
-    "vite": "latest"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "vite": "^5.0.0",
     "@vitejs/plugin-react": "*"
   }
 }
